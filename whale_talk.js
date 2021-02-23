@@ -1,4 +1,4 @@
-let input = 'seize the means of production, comrades!';
+let input = 'i love you';
 const vowels = ['a', 'e', 'i', 'o', 'u'];
 let resultArray = [];
 
